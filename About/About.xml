@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Drag Reorder</name>
+  <author>ifchen0</author>
+  <packageId>ifchen0.dragreorder</packageId>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <description>Reorder the bottom bar buttons, the architect categories and the buildings inside each category by dragging them with the right mouse button.
+
+Hold the right mouse button on a button, drag it onto another button and release: the dragged button takes that place. A plain right click still works as before.
+
+The order is kept in the mod settings and applies to every save. Buttons added later by other mods are placed next to where they would normally appear. Each of the three orders can be reset in the mod settings.
+
+Safe to add to or remove from an existing save.</description>
+  <modDependencies>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+</ModMetaData>

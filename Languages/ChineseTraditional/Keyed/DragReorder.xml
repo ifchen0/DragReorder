@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DragReorder_Hint>在底部工作列按鈕、建築分類或建築上按住滑鼠右鍵，拖到另一個按鈕上放開，即可移到該位置。</DragReorder_Hint>
+  <DragReorder_ResetMainButtons>重設底部工作列順序</DragReorder_ResetMainButtons>
+  <DragReorder_ResetCategories>重設建築分類順序</DragReorder_ResetCategories>
+  <DragReorder_ResetDesignators>重設所有分類內的建築順序</DragReorder_ResetDesignators>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DragReorder_Hint>Hold the right mouse button on a bottom bar button, an architect category or a building, drag it onto another one and release to move it there.</DragReorder_Hint>
+  <DragReorder_ResetMainButtons>Reset bottom bar order</DragReorder_ResetMainButtons>
+  <DragReorder_ResetCategories>Reset architect category order</DragReorder_ResetCategories>
+  <DragReorder_ResetDesignators>Reset building order in all categories</DragReorder_ResetDesignators>
+</LanguageData>
