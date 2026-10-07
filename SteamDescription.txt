@@ -1,0 +1,22 @@
+Reorder the bottom bar, the architect categories and the buildings inside each category by dragging them with the right mouse button.
+
+[h2]How to use[/h2]Hold the right mouse button on a button, drag it onto another button and release. The dragged button takes that place.
+[list]
+[*][b]Bottom bar:[/b] the main buttons (Work, Schedule, Architect, ...).
+[*][b]Architect categories:[/b] the category buttons on the left of the architect menu.
+[*][b]Buildings:[/b] the buildings inside the open category, including dropdown groups such as floors.
+[/list]
+While dragging, the button you picked up is dimmed and the drop target is outlined. Releasing anywhere else cancels the drag. A plain right click (without moving the mouse) works exactly as before.
+
+[h2]How it works[/h2]The order is kept in the mod settings and applies to every save. Vanilla's own order is not changed in the game files: the bottom bar and category lists are rearranged in place, and the building grid is re-sorted only while an architect category is drawn, so gizmos of selected pawns and buildings are not affected.
+
+Buttons that a mod adds later are placed next to where they would normally appear, so you do not have to start over after changing your mod list.
+
+[h2]Notes[/h2][list]
+[*]Each of the three orders can be reset to default in the mod settings.
+[*]Safe to add to or remove from an existing save.
+[*]Do not use together with another mod that reorders the same buttons (for example Tab-sorting); both would fight over the order.
+[*]If a future RimWorld update changes the building grid code, the mod logs a warning and buildings keep their default order.
+[/list]
+[hr][/hr]
+This mod was developed with the help of AI coding tools (Claude Code). Full source code is included in the Source folder and on [url=https://github.com/ifchen0/DragReorder]GitHub[/url] for review.

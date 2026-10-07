@@ -3,6 +3,7 @@
   <name>Drag Reorder</name>
   <author>ifchen0</author>
   <packageId>ifchen0.dragreorder</packageId>
+  <url>https://github.com/ifchen0/DragReorder</url>
   <supportedVersions><li>1.6</li></supportedVersions>
   <description>Reorder the bottom bar buttons, the architect categories and the buildings inside each category by dragging them with the right mouse button.
 
