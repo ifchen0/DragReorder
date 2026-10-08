@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Drag Reorder: Bottom Bar &amp; Architect</name>
+  <name>[DEPRECATED] Drag Reorder: Bottom Bar &amp; Architect</name>
   <author>ifchen0</author>
   <packageId>ifchen0.dragreorder</packageId>
   <url>https://github.com/ifchen0/DragReorder</url>
   <supportedVersions><li>1.6</li></supportedVersions>
-  <description>Reorder the bottom bar buttons, the architect categories and the buildings inside each category by dragging them with the right mouse button.
+  <description>Deprecated: this mod is now part of Vanilla Tune-Up: Fixes &amp; Tweaks and will not be updated further. Please switch to that mod.
+
+Reorder the bottom bar buttons, the architect categories and the buildings inside each category by dragging them with the right mouse button.
 
 Hold the right mouse button on a button, drag it onto another button and release: the dragged button takes that place. A plain right click still works as before.
 
